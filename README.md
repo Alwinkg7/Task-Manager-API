@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/task-manager-api.git
+git clone https://github.com/Alwinkg7/task-manager-api.git
 Navigate into the project directory:
 
 bash
